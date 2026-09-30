@@ -67,9 +67,9 @@ Below is a comparative breakdown of leading commercial Digital Risk Protection a
 
 ## 🔓 Open-Source GitHub Projects
 
-Below are top open-source repositories for building custom DRP, OSINT, and domain monitoring pipelines, **sorted in descending order by GitHub Star count**:
+Below are top open-source repositories for building custom DRP, OSINT, and domain monitoring pipelines, **sorted in descending order by GitHub Stars_Count**:
 
-| 📦 Repository / Tool | 🌟 GitHub Stars | 🔍 Category & Description |
+| 📦 Repository / Tool | 🌟 GitHub_Stars | 🔍 Category & Description |
 | :--- | :--- | :--- |
 | **[sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)** | [<img src="https://img.shields.io/github/stars/sherlock-project/sherlock?style=social&color=white" alt="Sherlock Stars"/>](https://github.com/sherlock-project/sherlock/stargazers) | **OSINT & Username Recon**: Hunt down social media accounts across 400+ networks to spot executive impersonation and fake brand profiles. |
 | **[smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)** | [<img src="https://img.shields.io/github/stars/smicallef/spiderfoot?style=social&color=white" alt="Spiderfoot Stars"/>](https://github.com/smicallef/spiderfoot/stargazers) | **OSINT Automation**: Hundreds of automated modules for domain, IP, leak, email, and external footprint reconnaissance. |
